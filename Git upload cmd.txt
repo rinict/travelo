@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "my frist project"
+git status
+git remote add origin https://github.com/rinict/travelo.git
+git push origin master
+git push -f origin master
+
+
+if error alredy exit 
+git remote remove origin
